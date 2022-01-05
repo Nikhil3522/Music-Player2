@@ -1,2 +1,2 @@
 # Music-Player
-I developed this Music Plater.
+I developed this Music Player.
